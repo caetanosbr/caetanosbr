@@ -2,7 +2,7 @@
 
 
 
-## Sou Thiago Caetano!
+## Hello I'm Thiago Caetano!
 <div align="center">
   <a href="https://github.com/caetanosbr">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=caetanosbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
