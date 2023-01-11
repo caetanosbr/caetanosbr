@@ -9,6 +9,9 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanosbr&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  ## 
+  Used Technologies
+  
  <div style="display: inline_block"><br>
   <img align="center" alt="tk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!--<img align="center" alt="tk-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
@@ -20,7 +23,8 @@
 </div>
 
 ##
-
+Social networks
+  
 <div> 
   <a href="https://instagram.com/caetanosbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank" ></a>
   <a href="https://www.twitch.tv/caetanosbr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"  target="_blank"></a>
@@ -30,7 +34,8 @@
  
 </div>
   
-  ## Total de visitantes no meu perfil :detective: <br>
+  ## 
+  Total de visitantes no meu perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/caetanosbr/count.svg" />
  </p>
