@@ -6,7 +6,7 @@ Hi there! <br>
 I'm Thiago Caetano! 
 </h2>
 
-<img align=center height="415rem" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"/>
+<!--<img align=center height="415rem" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"/>-->
 <!--<img align=center height="425rem" src="https://i.imgur.com/ZkT5sJk.gif"/>-->
 
 
