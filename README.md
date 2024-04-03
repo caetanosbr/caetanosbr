@@ -23,6 +23,8 @@ I'm Thiago Caetano!
   <img align="center" alt="tk-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="tk-JS" height="48" width="50" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
   <img align="center" alt="tk-RE" height="48" width="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center" alt="tk-NO" height="48" width="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-3.svg">
+    
   <!--<img align="center" alt="tk-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
   <!--<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"-->
   <img align="center" alt="tk-Github" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
